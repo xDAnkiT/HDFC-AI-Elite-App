@@ -1,6 +1,6 @@
-# Inoffice ReactNative project #
+# HDFC AI ELite ReactNative project #
 
-This is our Inoffice reactNative project codebase for Android/iOs
+This is our HDFC Adcat Hackathon reactNative project codebase for Android/iOs
 
 ### Code building tools for Android? ###
 
