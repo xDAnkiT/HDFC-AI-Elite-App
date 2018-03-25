@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorPrimaryDarkPre">#ececec</color>
+    <color name="colorAccent">#ffa640</color>
+    <color name="colorAccentBtn">#ff871e</color>
+
+    <color name="grey_100">#F5F5F5</color>
+    <color name="grey_300">#E0E0E0</color>
+    <color name="primaryText">#1a1a1a</color>
+    <color name="secondaryText">#696969</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="background">#f1f1f1</color>
+
+    <color name="warning_color">#d4623e</color>
+    <color name="colorSuccess">#2a8115</color>
+    <color name="divider">#dfdfdf</color>
+    <color name="hint_color">#42000000</color>
+    <color name="success_color">#078c80</color>
+    <color name="rippleColor">#f2f2f2</color>
+</resources>
